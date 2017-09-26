@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc/cc.iml" filepath="$PROJECT_DIR$/cc/cc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_lx/day02_lx.iml" filepath="$PROJECT_DIR$/day02_lx/day02_lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_rikao/day02_rikao.iml" filepath="$PROJECT_DIR$/day02_rikao/day02_rikao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_sycanlx/day04_sycanlx.iml" filepath="$PROJECT_DIR$/day04_sycanlx/day04_sycanlx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_caipu/day05_caipu.iml" filepath="$PROJECT_DIR$/day05_caipu/day05_caipu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_demo/day07_demo.iml" filepath="$PROJECT_DIR$/day07_demo/day07_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_domelx/day07_domelx.iml" filepath="$PROJECT_DIR$/day07_domelx/day07_domelx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_dome/day09_dome.iml" filepath="$PROJECT_DIR$/day09_dome/day09_dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_xlist/day09_xlist.iml" filepath="$PROJECT_DIR$/day09_xlist/day09_xlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_drawlayout/day10_drawlayout.iml" filepath="$PROJECT_DIR$/day10_drawlayout/day10_drawlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_horiscrol/day11_horiscrol.iml" filepath="$PROJECT_DIR$/day11_horiscrol/day11_horiscrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_viewpage/day12_viewpage.iml" filepath="$PROJECT_DIR$/day12_viewpage/day12_viewpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_baseactivity/day13_baseactivity.iml" filepath="$PROJECT_DIR$/day13_baseactivity/day13_baseactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_dome/day13_dome.iml" filepath="$PROJECT_DIR$/day13_dome/day13_dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_network/day13_network.iml" filepath="$PROJECT_DIR$/day13_network/day13_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16_refresh/day16_refresh.iml" filepath="$PROJECT_DIR$/day16_refresh/day16_refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17_library/day17_library.iml" filepath="$PROJECT_DIR$/day17_library/day17_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17_sp/day17_sp.iml" filepath="$PROJECT_DIR$/day17_sp/day17_sp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4_serversocket/day4_serversocket.iml" filepath="$PROJECT_DIR$/day4_serversocket/day4_serversocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4synctask/day4synctask.iml" filepath="$PROJECT_DIR$/day4synctask/day4synctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day5_caipulx/day5_caipulx.iml" filepath="$PROJECT_DIR$/day5_caipulx/day5_caipulx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7_image/day7_image.iml" filepath="$PROJECT_DIR$/day7_image/day7_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8_listview/day8_listview.iml" filepath="$PROJECT_DIR$/day8_listview/day8_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_viewpagerlx/day_viewpagerlx.iml" filepath="$PROJECT_DIR$/day_viewpagerlx/day_viewpagerlx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghuacheng/donghuacheng.iml" filepath="$PROJECT_DIR$/donghuacheng/donghuacheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gkjexam/gkjexam.iml" filepath="$PROJECT_DIR$/gkjexam/gkjexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studioSpace.iml" filepath="$PROJECT_DIR$/studioSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuekaolx/yuekaolx.iml" filepath="$PROJECT_DIR$/yuekaolx/yuekaolx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuekaolx2/yuekaolx2.iml" filepath="$PROJECT_DIR$/yuekaolx2/yuekaolx2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoukao2_lx/zhoukao2_lx.iml" filepath="$PROJECT_DIR$/zhoukao2_lx/zhoukao2_lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoukao3/zhoukao3.iml" filepath="$PROJECT_DIR$/zhoukao3/zhoukao3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoukao3lx/zhoukao3lx.iml" filepath="$PROJECT_DIR$/zhoukao3lx/zhoukao3lx.iml" />
+    </modules>
+  </component>
+</project>

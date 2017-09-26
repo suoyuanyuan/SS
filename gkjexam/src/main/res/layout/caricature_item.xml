@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:orientation="horizontal">
+    <ImageView
+        android:padding="10dp"
+        android:id="@+id/iv_caricature"
+        android:layout_width="150dp"
+        android:layout_height="200dp" />
+    <LinearLayout
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+        <TextView
+            android:gravity="center"
+            android:id="@+id/caricature_name"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="20dp"/>
+        <TextView
+            android:gravity="center"
+            android:id="@+id/caricature_address"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:id="@+id/caricature_lx"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:id="@+id/caricature_time"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</LinearLayout>

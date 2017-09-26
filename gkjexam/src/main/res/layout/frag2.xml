@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/main_back"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="漫画名"/>
+        <ImageButton
+            android:id="@+id/ib_select"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:src="@mipmap/btn_search"/>
+    </LinearLayout>
+    <ListView
+        android:id="@+id/lv_show"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+
+</LinearLayout>

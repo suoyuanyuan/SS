@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:id="@+id/dl"
+    tools:context="bw.com.day10_drawlayout.MainActivity">
+<FrameLayout
+    android:id="@+id/fl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+</FrameLayout>
+
+<ListView
+    android:id="@+id/lv"
+    android:background="#ff00ff"
+
+    android:layout_gravity="start"
+    android:choiceMode="singleChoice"
+    android:layout_width="200dp"
+    android:layout_height="match_parent"></ListView>
+
+</android.support.v4.widget.DrawerLayout>

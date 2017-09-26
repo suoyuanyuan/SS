@@ -1,0 +1,2 @@
+include ':app', ':cc', ':day4synctask', ':day4_serversocket', ':day05_caipu', ':day5_caipulx', ':day04_sycanlx', ':day02_rikao', ':demo', ':day02_lx', ':day7_image', ':day07_demo', ':day07_domelx', ':day8_listview', ':day09_xlist', ':day10_drawlayout', ':day09_dome', ':day11_horiscrol', ':zhoukao2_lx', ':day12_viewpage', ':day13_baseactivity', ':day13_network', ':day13_dome', ':donghuacheng', ':day16_refresh', ':day16_refresh', ':day_viewpagerlx', ':zhoukao3lx', ':zhoukao3', ':zhoukao3', ':gkjexam', ':day17_sp', ':yuekaolx', ':yuekaolx2'
+include ':day17_library'

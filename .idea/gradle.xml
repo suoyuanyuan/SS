@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cc" />
+            <option value="$PROJECT_DIR$/day02_lx" />
+            <option value="$PROJECT_DIR$/day02_rikao" />
+            <option value="$PROJECT_DIR$/day04_sycanlx" />
+            <option value="$PROJECT_DIR$/day05_caipu" />
+            <option value="$PROJECT_DIR$/day07_demo" />
+            <option value="$PROJECT_DIR$/day07_domelx" />
+            <option value="$PROJECT_DIR$/day09_dome" />
+            <option value="$PROJECT_DIR$/day09_xlist" />
+            <option value="$PROJECT_DIR$/day10_drawlayout" />
+            <option value="$PROJECT_DIR$/day11_horiscrol" />
+            <option value="$PROJECT_DIR$/day12_viewpage" />
+            <option value="$PROJECT_DIR$/day13_baseactivity" />
+            <option value="$PROJECT_DIR$/day13_dome" />
+            <option value="$PROJECT_DIR$/day13_network" />
+            <option value="$PROJECT_DIR$/day16_refresh" />
+            <option value="$PROJECT_DIR$/day17_library" />
+            <option value="$PROJECT_DIR$/day17_sp" />
+            <option value="$PROJECT_DIR$/day4_serversocket" />
+            <option value="$PROJECT_DIR$/day4synctask" />
+            <option value="$PROJECT_DIR$/day5_caipulx" />
+            <option value="$PROJECT_DIR$/day7_image" />
+            <option value="$PROJECT_DIR$/day8_listview" />
+            <option value="$PROJECT_DIR$/day_viewpagerlx" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/donghuacheng" />
+            <option value="$PROJECT_DIR$/gkjexam" />
+            <option value="$PROJECT_DIR$/yuekaolx" />
+            <option value="$PROJECT_DIR$/yuekaolx2" />
+            <option value="$PROJECT_DIR$/zhoukao2_lx" />
+            <option value="$PROJECT_DIR$/zhoukao3" />
+            <option value="$PROJECT_DIR$/zhoukao3lx" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cc" />
+            <option value="$PROJECT_DIR$/day02_lx" />
+            <option value="$PROJECT_DIR$/day02_rikao" />
+            <option value="$PROJECT_DIR$/day04_sycanlx" />
+            <option value="$PROJECT_DIR$/day05_caipu" />
+            <option value="$PROJECT_DIR$/day07_demo" />
+            <option value="$PROJECT_DIR$/day07_domelx" />
+            <option value="$PROJECT_DIR$/day09_dome" />
+            <option value="$PROJECT_DIR$/day09_xlist" />
+            <option value="$PROJECT_DIR$/day10_drawlayout" />
+            <option value="$PROJECT_DIR$/day11_horiscrol" />
+            <option value="$PROJECT_DIR$/day12_viewpage" />
+            <option value="$PROJECT_DIR$/day13_baseactivity" />
+            <option value="$PROJECT_DIR$/day13_dome" />
+            <option value="$PROJECT_DIR$/day13_network" />
+            <option value="$PROJECT_DIR$/day16_refresh" />
+            <option value="$PROJECT_DIR$/day17_library" />
+            <option value="$PROJECT_DIR$/day17_sp" />
+            <option value="$PROJECT_DIR$/day4_serversocket" />
+            <option value="$PROJECT_DIR$/day4synctask" />
+            <option value="$PROJECT_DIR$/day5_caipulx" />
+            <option value="$PROJECT_DIR$/day7_image" />
+            <option value="$PROJECT_DIR$/day8_listview" />
+            <option value="$PROJECT_DIR$/day_viewpagerlx" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/donghuacheng" />
+            <option value="$PROJECT_DIR$/gkjexam" />
+            <option value="$PROJECT_DIR$/yuekaolx" />
+            <option value="$PROJECT_DIR$/yuekaolx2" />
+            <option value="$PROJECT_DIR$/zhoukao2_lx" />
+            <option value="$PROJECT_DIR$/zhoukao3" />
+            <option value="$PROJECT_DIR$/zhoukao3lx" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

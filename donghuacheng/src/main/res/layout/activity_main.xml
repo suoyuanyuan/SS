@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dl"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bw.com.donghuacheng.MainActivity"
+    android:background="@mipmap/main_back"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <include layout="@layout/title_layout"/>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    </android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/img_home"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@mipmap/home_select"/>
+        <ImageView
+        android:id="@+id/img_search"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:src="@mipmap/search_normal"/>
+        <ImageView
+            android:id="@+id/img_collect"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@mipmap/collect_normal"/>
+    </LinearLayout>
+</LinearLayout>
+<include layout="@layout/menu_item"
+    android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="left"/>
+</android.support.v4.widget.DrawerLayout>
